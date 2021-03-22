@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="coding"/>
 
-### 🤵 About Me:
+### About Me:
 - I am working on trading bots for kraken,coinbasepro, binance, etc... <a href="https://github.com/hugodemenez" target="blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="hugodemenez" height="24" width="24" /></a>&nbsp; 
 - I mainly code in <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_256x256.png" alt="python" width="24" height="24"/> but I also work with :
 
@@ -18,7 +18,7 @@
 </p>
 
 ---
-### 🐱My Github stats:
+### My Github stats:
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ecf0f1&hide=["stars"]" alt="data"/>
