@@ -19,8 +19,9 @@
 
 ---
 ### 🐱My Github stats:
+<p align="center">
 ![My github stats](https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=#2c3e50&icon_color=#2c3e50&text_color=2c3e50&bg_color=ecf0f1&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugodemenez&layout=compact&text_color=2c3e50&bg_color=ecf0f1)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
 
