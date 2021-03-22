@@ -4,7 +4,7 @@
 <a href="https://hashnode.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="hugodemenez" height="20" width="20" /></a>
 
 <p align="center">
-<img src="https://github.com/hugodemenez/hugodemenez/blob/main/gif.gif" alt="coding"/>
+<img src="https://github.com/hugodemenez/hugodemenez/blob/main/gif.gif" alt="coding" border-radius="30px"/>
 
 ### About Me:
 - I am working on trading bots for kraken,coinbasepro, binance, etc... <a href="https://github.com/hugodemenez" target="blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="hugodemenez" height="24" width="24" /></a>&nbsp; 
