@@ -8,20 +8,12 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
-- 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.java```,``` .py```, ```.sql```
-- 🌱 I’m currently learning docker and kubernetes
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
-- 😄 Pronouns: He/Him
-- 📝 I regulary write articles on [hashnode](https://apoorvtyagi.tech/) (previously on [blogger](https://apoorvtyagi133.blogspot.com/))
-- 👯 We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games
-- ⚡ Fun fact: Je connais un peu le français
+- 🏦 I am working on trading bot for kraken,coinbasepro, binance, etc...
+- 🤔 I use daily ``` .py```
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+<img src="https://hugovk.github.io/python-logos/img/Swiss%20Python%20Summit.svg" alt="python" width="60" height="60"/>
+<img src="https://user-images.githubusercontent.com/11306104/28999421-69312b92-7a03-11e7-9268-a1a8756b5442.png" alt="c" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
 </p>
