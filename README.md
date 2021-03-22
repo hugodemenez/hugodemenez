@@ -21,7 +21,7 @@
 ### My Github stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ecf0f1&hide=["stars"]" alt="data"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff&hide=["stars"]" alt="data"/>
 
 
 Last Edited on: 22/03/2021
