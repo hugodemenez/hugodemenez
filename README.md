@@ -8,7 +8,7 @@
 <img src="https://github.com/hugodemenez/hugodemenez/blob/main/gif.gif" alt="coding" border-radius="30px"/>
 </p>
 
-<h2 align="center">About Me</h2>
+###About Me
 - I am working on trading bots for kraken,coinbasepro, binance, etc... <a href="https://github.com/hugodemenez" target="blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="hugodemenez" height="24" width="24" /></a>&nbsp; 
 - I mainly code in <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_256x256.png" alt="python" width="24" height="24"/> but I also work with :
 
