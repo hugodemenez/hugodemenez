@@ -17,7 +17,6 @@
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="24" height="24"/> 
 </p>
 
----
 <h2 align="center">My Stats</h2>
 
 <p align="center">
