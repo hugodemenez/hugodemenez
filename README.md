@@ -30,7 +30,7 @@
   <a align="left" href="https://github.com/hugodemenez/BinanceBot" title="Binance"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hugodemenez&repo=BinanceBot&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff"></a>
   <a align="right" href="https://github.com/hugodemenez/CoinbaseBot" title="CoinbaseBot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hugodemenez&repo=CoinbaseBot&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff"></a>
 </p>
-<p align="center">
+<p align="left">
   Last Edit on 23/03/2021
 </p>
 
