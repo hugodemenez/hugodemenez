@@ -8,7 +8,8 @@
 <img src="https://github.com/hugodemenez/hugodemenez/blob/main/gif.gif" alt="coding" border-radius="30px"/>
 </p>
 
-##About Me
+About Me
+------------
 - I am working on trading bots for kraken,coinbasepro, binance, etc... <a href="https://github.com/hugodemenez" target="blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="hugodemenez" height="24" width="24" /></a>&nbsp; 
 - I mainly code in <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_256x256.png" alt="python" width="24" height="24"/> but I also work with :
 
@@ -18,13 +19,17 @@
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="24" height="24"/> 
 </p>
 
-<h2 align="center">My Stats</h2>
+
+My Stats
+------------
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff&hide=["stars"]" alt="data"/>
 </p>
 
-<h2 align="center">Repositories</h2>
+
+I am currently working on :
+------------
 
 <p align="center">
   <a align="left" href="https://github.com/hugodemenez/BinanceBot" title="Binance"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hugodemenez&repo=BinanceBot&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff"></a>
