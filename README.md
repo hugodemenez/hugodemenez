@@ -18,10 +18,18 @@
 </p>
 
 ---
-### My Github stats:
+<h2 align="center">My Stats</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff&hide=["stars"]" alt="data"/>
 
+<hr>
+
+<h2 align="center">Repositories</h2>
+
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/hugodemenez/BinanceBot" title="Binance"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hugodemenez&repo=BinanceBot&theme=gotham"></a><a align="right" href="https://github.com/hugodemenez/CoinbaseBot" title="CoinbaseBot"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hugodemenez&repo=CoinbaseBot&theme=gotham"></a>
+</p>
+<br><br>
 
 Last Edited on: 22/03/2021
