@@ -11,7 +11,7 @@
 About Me
 ------------
 - I am working on trading bots for kraken,coinbasepro, binance, etc... <a href="https://github.com/hugodemenez" target="blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="hugodemenez" height="24" width="24" /></a>&nbsp; 
-- I mainly code in : <a href="https://www.python.org/" target="blank"><src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_256x256.png" alt="python" height="20" width="20" /></a> 
+- I mainly code in : <a href="https://www.python.org/" target="blank"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_256x256.png" alt="python" height="24" width="24" /></a>&nbsp; 
 - but I also work with :
 
 <p align="center">
