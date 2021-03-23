@@ -12,13 +12,8 @@ About Me
 ------------
 - I am working on trading bots for kraken,coinbasepro, binance, etc... <a href="https://github.com/hugodemenez" target="blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="hugodemenez" height="24" width="24" /></a>&nbsp; 
 - I mainly code in : <a href="https://www.python.org/" target="blank"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_256x256.png" alt="python" height="24" width="24" /></a>&nbsp; 
-- but I also work with :
+- but I also work with :<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_256x256.png" alt="c" width="24" height="24"/> <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_256x256.png" alt="php" width="24" height="24"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="24" height="24"/> 
 
-<p align="center">
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_256x256.png" alt="c" width="24" height="24"/> 
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_256x256.png" alt="php" width="24" height="24"/> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="24" height="24"/> 
-</p>
 
 
 My Stats
