@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/hugodemenez/hugodemenez/blob/main/gif.gif" alt="coding" border-radius="30px"/>
+<img src="https://github.com/hugodemenez/hugodemenez/blob/main/gif.gif" alt="coding" width="100px" border-radius="30px"/>
 </p>
 
 About Me
