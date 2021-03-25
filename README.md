@@ -1,6 +1,6 @@
-# Welcome <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Welcome <img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/Hi.gif" width="29px">
 <p align="center">
-<a href="https://www.linkedin.com/in/hugo-demenez-6b017217a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hugodemenez" height="20" width="20" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/hugo-demenez-6b017217a/" target="blank"><img align="center" src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/linkedin.svg" alt="hugodemenez" height="20" width="20" /></a>&nbsp;
 <a href="https://hashnode.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="hugodemenez" height="20" width="20" /></a>
 </p>
 
