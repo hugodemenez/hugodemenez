@@ -26,5 +26,5 @@ I am currently working on :
 ------------
 
 <p align="center">
-  <a align="left" href="https://github.com/hugodemenez/EasyTrading" title="EasyTrading"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hugodemenez&repo=BinanceBot&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff"></a>
+  <a align="left" href="https://github.com/hugodemenez/EasyTrading" title="EasyTrading"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hugodemenez&repo=EasyTrading&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff"></a>
 </p>
