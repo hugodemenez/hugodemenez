@@ -3,10 +3,7 @@
 
 
 <p align="center">
-My name is Hugo, 
-<br>
-You could describe me as a lonely guy.
-<br>
+
 I try my best to understand the hardest technology stakes of our current days.
 <br>
 I mainly work on programs developped with python, but I am also enthousiast about C++,HTML+CSS,GoLang and JavaScript
