@@ -37,8 +37,8 @@ Current working repository
 
 Contact
 ------------
-<p align=center href="https://www.linkedin.com/in/hugo-demenez-6b017217a/">
-<a ><img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/linkedin.svg" alt="hugodemenez" height="20" width="20" /></a>
+<p align=center >
+<a ><img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/linkedin.svg" href="https://www.linkedin.com/in/hugo-demenez-6b017217a/" alt="Linkedin_hugodemenez" height="20" width="20" /></a>
 <br>
 Contact me on Linkedin
 </p>
