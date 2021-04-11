@@ -3,7 +3,6 @@
 
 
 <p align="center">
-
 I try my best to understand the hardest technology stakes of our current days.
 <br>
 I mainly work on programs developped with python, but I am also enthousiast about C++,HTML+CSS,GoLang and JavaScript
