@@ -25,14 +25,14 @@ My Stats
 ------------
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff&hide=["stars"]" width="100%" alt="My Github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff&hide=["stars"]" width="90%" alt="My Github stats"/>
 </p>
 
 Current working repository
 ------------
 
 <p align="center">
-  <a align="left" href="https://github.com/hugodemenez/EasyTrading" title="EasyTrading"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=hugodemenez&repo=EasyTrading&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff"></a>
+  <a align="left" href="https://github.com/hugodemenez/EasyTrading" title="EasyTrading"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=hugodemenez&repo=EasyTrading&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff"></a>
 </p>
 
 Contact
