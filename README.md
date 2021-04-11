@@ -1,30 +1,37 @@
-# Welcome <img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/Hi.gif" width="29px">
-<p align="center">
-<a href="https://www.linkedin.com/in/hugo-demenez-6b017217a/" target="blank"><img align="center" src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/linkedin.svg" alt="hugodemenez" height="20" width="20" /></a>&nbsp;
-<a href="https://hashnode.com/" target="blank"><img align="center" src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/hashnode.svg" alt="hugodemenez" height="20" width="20" /></a>
-</p>
+# Welcome
+
+<a href="https://www.linkedin.com/in/hugo-demenez-6b017217a/" target="blank">Contact me on Linkedin<img align="center" src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/linkedin.svg" alt="hugodemenez" height="20" width="20" /></a>
 
 <p align="center">
-<img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/gif.gif" alt="coding" width="300px" border-radius="50%"/>
+My name is Hugo, 
+You could describe me as a lonely guy.
+I try my best to understand the hardest technology stakes of our current days.
+I mainly work on programs developped with python, but I am also enthousiast about C++,HTML+CSS,GoLang and JavaScript
 </p>
 
-About Me
+
+
+My current activity
 ------------
 
-- I am working on trading bots for kraken,coinbasepro, binance, etc... <a href="https://github.com/hugodemenez" target="blank"><img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/GitHub-Mark.png" alt="hugodemenez" height="24" width="24" /></a>&nbsp; 
-- I mainly code in : <a href="https://www.python.org/" target="blank"><img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/python_256x256.png" alt="python" height="24" width="24" /></a>&nbsp; 
-- but I also work with :<img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/c_256x256.png" alt="c" width="24" height="24"/> <img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/php_256x256.png" alt="php" width="24" height="24"/> <img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/azure.svg" alt="azure" width="24" height="24"/> 
+- Working on trading bots for crypto-brokers like kraken,coinbasepro or binance.
+
+- Developping a mathematical analysis method to predict market with machine learning tools.
 
 My Stats
 ------------
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff&hide=["stars"]" width="50%" alt="data"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff&hide=["stars"]" width="100%" alt="My Github stats"/>
 </p>
 
-I am currently working on :
+Current working repository
 ------------
 
 <p align="center">
-  <a align="left" href="https://github.com/hugodemenez/EasyTrading" title="EasyTrading"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=hugodemenez&repo=EasyTrading&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff"></a>
+  <a align="left" href="https://github.com/hugodemenez/EasyTrading" title="EasyTrading"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=hugodemenez&repo=EasyTrading&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff"></a>
+</p>
+
+<p align="center">
+<img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/gif.gif" alt="coding" width="300px" border-radius="50%"/>
 </p>
