@@ -3,9 +3,9 @@
 
 
 <p align="center">
-I try my best to understand the hardest technology stakes of our current days.
+<li>I try my best to understand the hardest technology stakes of our current days.</li>
 <br>
-I mainly work on programs developped with python, but I am also enthousiast about C++,HTML+CSS,GoLang and JavaScript
+<li> mainly work on programs developped with python, but I am also enthousiast about C++,HTML+CSS,GoLang and JavaScript </li>
 </p>
 
 
