@@ -2,11 +2,11 @@
 
 
 
-<p align="center">
-<li>I try my best to understand the hardest technology stakes of our current days.</li>
+
+<li align="center">I try my best to understand the hardest technology stakes of our current days.</li>
 <br>
-<li> mainly work on programs developped with python, but I am also enthousiast about C++,HTML+CSS,GoLang and JavaScript </li>
-</p>
+<li align="center"> mainly work on programs developped with python, but I am also enthousiast about C++,HTML+CSS,GoLang and JavaScript </li>
+
 
 
 
