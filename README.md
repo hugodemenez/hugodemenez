@@ -28,7 +28,7 @@ Current working repository
 ------------
 
 <p align="center">
-  <a align="left" href="https://github.com/hugodemenez/EasyTrading" title="EasyTrading"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=SteinPrograms&repo=base-php-website&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff"></a>
+  <a align="left" href="https://github.com/hugodemenez/EasyTrading" title="EasyTrading"><img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=SteinPrograms&repo=base-php-website&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff"></a>
 </p>
 
 Contact
