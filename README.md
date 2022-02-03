@@ -24,15 +24,13 @@ My Stats
 <p align="center">
 
 </p>
-
-![GitHub Light](https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff&hide=["stars"]&count_private=true#gh-light-mode-only")
-![GitHub Dark](https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&hide=["stars"]&count_private=true#gh-dark-mode-only")
+![GitHub Dark](https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117&hide=["stars"]&count_private=true")
 
 I am currently developping on this repository
 ------------
 
 <p align="center">
-  <a align="left" href="https://github.com/hugodemenez/EasyTrading" title="EasyTrading"><img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=SteinPrograms&repo=base-php-website&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff"></a>
+  <a align="left" href="https://github.com/hugodemenez/EasyTrading" title="EasyTrading"><img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=SteinPrograms&repo=base-php-website&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117"></a>
 </p>
 
 Contact
