@@ -1,11 +1,13 @@
 # Welcome
 
 
-
-
-<li align="center">I try my best to understand the hardest technology stakes of our current days.</li>
+<li></li>
 <br>
-<li align="center"> mainly work on programs developped with python, but I am also enthousiast about C++,HTML+CSS,GoLang and JavaScript </li>
+<li> mainly work on algorithms developped with python, but I am also enthousiast about : </li>
+
+<li style="list-style: url('/media/examples/rocket.svg');"> WEB : HTML+CSS, JavaScript</li>
+<li style="list-style: url('/media/examples/rocket.svg');"> Android : Java using maven </li>
+<li style="list-style: url('/media/examples/rocket.svg');"> Microsoft : C# and C++ </li>
 
 
 
@@ -13,9 +15,9 @@
 My current activity
 ------------
 
-- Working on trading bots for crypto-brokers like kraken,coinbasepro or binance.
+- Working on trading bots for crypto-brokers like kraken,coinbasepro, binance or ftx.
 
-- Developping a mathematical analysis method to predict market with machine learning tools.
+- Developping a mathematical analysis method to predict market with machine learning tools and learning about Neural Networks analysis.
 
 My Stats
 ------------
