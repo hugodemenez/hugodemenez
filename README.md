@@ -25,8 +25,8 @@ My Stats
 
 </p>
 
-![GitHub Light](https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff&hide=["stars"]&count_private=true")
-![GitHub Dark](https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&hide=["stars"]&count_private=true")
+![GitHub Light](https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff&hide=["stars"]&count_private=true#gh-light-mode-only")
+![GitHub Dark](https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&hide=["stars"]&count_private=true#gh-dark-mode-only")
 
 I am currently developping on this repository
 ------------
