@@ -25,8 +25,8 @@ My Stats
 
 </p>
 
-![GitHub Light](https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff&hide=["stars"]"#gh-light-mode-only)
-![GitHub Dark](https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&hide=["stars"]"#gh-dark-mode-only)
+[![GitHub Light]](https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=2c3e50&icon_color=2c3e50&text_color=2c3e50&bg_color=ffffff&hide=["stars"]"#gh-light-mode-only)
+[![GitHub Dark](https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000&hide=["stars"]"#gh-dark-mode-only)
 
 I am currently developping on this repository
 ------------
@@ -38,6 +38,7 @@ I am currently developping on this repository
 Contact
 ------------
 <p align=center >
+
 <a href="https://www.linkedin.com/in/hugo-demenez-6b017217a/" ><img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/linkedin.svg" alt="Linkedin_hugodemenez" height="40" width="40" /><br>Contact me on Linkedin</a>
 
 </p>
