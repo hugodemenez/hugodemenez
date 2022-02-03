@@ -1,14 +1,13 @@
 # Welcome
 
 
-<li></li>
-<br>
-<li> mainly work on algorithms developped with python, but I am also enthousiast about : </li>
+<li> I mainly work on algorithms developped with python, but I am also enthousiast about : </li>
 
-<li style="list-style: url('/media/examples/rocket.svg');"> WEB : HTML+CSS, JavaScript</li>
-<li style="list-style: url('/media/examples/rocket.svg');"> Android : Java using maven </li>
-<li style="list-style: url('/media/examples/rocket.svg');"> Microsoft : C# and C++ </li>
-
+<ul style="list-style: url('/media/examples/rocket.svg');">
+<li> WEB : HTML+CSS, JavaScript</li>
+<li> Android : Java using maven </li>
+<li> Microsoft : C# and C++ </li>
+</ul>
 
 
 
