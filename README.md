@@ -39,7 +39,7 @@ Contact
 ------------
 <p align=center >
 
-<a href="https://www.linkedin.com/in/hugo-demenez-6b017217a/" ><img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/linkedin.svg" alt="Linkedin_hugodemenez" height="40" width="40" /><br>Contact me on Linkedin</a>
+<a href="https://www.linkedin.com/in/hugo-demenez-6b017217a/" ><img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/linkedin.svg" alt="Linkedin_hugodemenez" height="500px" width="500px" /><br>Contact me on Linkedin</a>
 
 </p>
 
