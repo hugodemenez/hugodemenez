@@ -24,7 +24,7 @@ My Stats
 <p align="center">
 
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117&hide=["stars"]&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117&hide=["stars"]&count_private=true#gh-light-mode-only">
 
 I am currently developping on this repository
 ------------
@@ -36,9 +36,7 @@ I am currently developping on this repository
 Contact
 ------------
 <p align=center >
-
-<a href="https://www.linkedin.com/in/hugo-demenez-6b017217a/" ><img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/linkedin.svg" alt="Linkedin_hugodemenez" height="500px" width="500px" /><br>Contact me on Linkedin</a>
-
+<a href="https://www.linkedin.com/in/hugo-demenez-6b017217a/"><img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/linkedin.svg" alt="Linkedin_hugodemenez" height="200px" width="200px"/><br>Contact me on Linkedin</a>
 </p>
 
 <p align="center">
