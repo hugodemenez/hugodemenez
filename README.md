@@ -39,5 +39,5 @@ Contact
 </p>
 
 <p align="center">
-<img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/gif.gif" alt="coding" width="300px" border-radius="50%"/>
+<img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/gif.gif" alt="coding" width="300px"  style="border-radius:"50%""/>
 </p>
