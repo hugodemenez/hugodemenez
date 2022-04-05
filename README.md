@@ -22,7 +22,7 @@ My Stats
 ------------
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117&hide=["stars"]&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=fff&hide=["stars"]&count_private=true">
 </p>
 
 
