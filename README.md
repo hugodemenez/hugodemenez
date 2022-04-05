@@ -25,13 +25,6 @@ My Stats
 <img src="https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117&hide=["stars"]&count_private=true">
 </p>
 
-I am currently developping on those repositories
-------------
-
-<p align="center">
-  <a align="left" href="https://github.com/SteinPrograms/base-python-architecture" title="EasyTrading"><img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=SteinPrograms&repo=base-python-architecture&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117"></a>
-  <a align="right" href="https://github.com/SteinPrograms/base-php-website" title="EasyTrading"><img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=SteinPrograms&repo=base-php-website&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117"></a>
-</p>
 
 Contact
 ------------
