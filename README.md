@@ -29,5 +29,5 @@ My Stats
 Contact
 ------------
 <p align=center >
-<a href="https://www.linkedin.com/in/hugo-demenez/">Contact me on Linkedin<br><img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/linkedin.svg" alt="Linkedin_hugodemenez" height="200px" width="200px"/></a>
+<a href="https://www.linkedin.com/in/hugo-demenez/"><img src="https://github.com/hugodemenez/hugodemenez/blob/main/assets/linkedin.svg" alt="Linkedin_hugodemenez" height="200px" width="200px"/></a>
 </p>
