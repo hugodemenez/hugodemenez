@@ -19,7 +19,7 @@
 ## Old activity
 
 <center>
-<img src="assets/Broker_API.png" href="https://github.com/hugodemenez/Python_Brokers_API.git" width=45%/>
+<img src="assets/BrokerAPI.png" href="https://github.com/hugodemenez/Python_Brokers_API.git" width=45%/>
 <img src="assets/PatternRecognitionStrategy.png" href="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy.git" width=45%/>
 </center>
 
