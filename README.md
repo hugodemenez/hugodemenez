@@ -28,8 +28,6 @@
 <img src="metrics.plugin.wakatime.svg" alt="Metrics">
 </p>
 
-[![Metrics](https://github.com/hugodemenez/hugodemenez/actions/workflows/workflow.yml/badge.svg)](https://github.com/hugodemenez/hugodemenez/actions/workflows/workflow.yml)
-
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-901%20lines%20of%20code-blue)
 
