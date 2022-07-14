@@ -18,16 +18,17 @@
 
 ## Old activity
 
-|  |  |
+| Useful one | Best practice|
 | ------------- | ------------- |
 | [![](assets/BrokerAPI.png)](https://github.com/hugodemenez/Python_Brokers_API)  | [![](assets/PatternRecognitionStrategy.png)](https://github.com/FinancialForecastingProject/PatternRecognitionStrategy.git)  |
 
 ## My Stats
 
 
-|  |  |
-| ------------- | ------------- |
-|![Top Langs](https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f1f1&hide=["stars"]&count_private=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugodemenez&layout=compact&title_color=000&icon_color=000&text_color=000&bg_color=f1f1f1)|
+<img src='https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f1f1&hide=["stars"]&count_private=true' width=400px/>
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hugodemenez&layout=compact&title_color=000&icon_color=000&text_color=000&bg_color=f1f1f1' width=400px height=200/>
+
 
 
 ## Contact
