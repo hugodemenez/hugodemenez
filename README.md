@@ -30,6 +30,9 @@
 
 [![Metrics](https://github.com/hugodemenez/hugodemenez/actions/workflows/workflow.yml/badge.svg)](https://github.com/hugodemenez/hugodemenez/actions/workflows/workflow.yml)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Contact
 
 <p align=center >
