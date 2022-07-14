@@ -18,14 +18,17 @@
 
 ## Old activity
 
-
-![https://github.com/hugodemenez/Python_Brokers_API.git](assets/Broker_API.png)
+<center>
+<img src="assets/Broker_API.png" href="https://github.com/hugodemenez/Python_Brokers_API.git" width=45%/>
+<img src="assets/PatternRecognitionStrategy.png" href="https://github.com/FinancialForecastingProject/PatternRecognitionStrategy.git" width=45%/>
+</center>
 
 ## My Stats
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=fff&hide=["stars"]&count_private=true">
+
+<img src='https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f1f1&hide=["stars"]&count_private=true' width=100%/>
 </p>
 
 
