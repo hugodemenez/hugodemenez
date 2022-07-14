@@ -1,6 +1,5 @@
 # Welcome <img src="assets/hello.gif" width="30px"/>
-
-
+[![Metrics](https://github.com/hugodemenez/hugodemenez/actions/workflows/blank.yml/badge.svg)](https://github.com/hugodemenez/hugodemenez/actions/workflows/blank.yml)
 ## Who am I ?
 
 :man_student: Studying quantitative and corporative finance alongside informatics expecting to graduate with an engineering degree
