@@ -25,7 +25,7 @@
 ## My Stats
 
 <p align=center>
-<img src="metrics.plugin.wakatime.svg" alt="Metrics" width=100%>
+<img src="metrics.plugin.wakatime.svg" alt="Metrics">
 </p>
 
 [![Metrics](https://github.com/hugodemenez/hugodemenez/actions/workflows/workflow.yml/badge.svg)](https://github.com/hugodemenez/hugodemenez/actions/workflows/workflow.yml)
