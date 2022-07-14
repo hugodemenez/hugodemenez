@@ -1,4 +1,4 @@
-# Welcome <img src="assets/hi.gif" width="30px"/>
+# Welcome <img src="assets/hello.gif" width="30px"/>
 
 
 ## Who am I ?
