@@ -5,7 +5,7 @@
 
 :man_student: Studying quantitative and corporative finance alongside informatics expecting to graduate with an engineering degree
 
-*  I mainly work on algorithms developped with python, but I am also enthousiast about :
+*  I mainly work on algorithms developped with **python**, but I am also enthousiast about :
     * :man_technologist: WEB : HTML+CSS, JavaScript
     * :iphone: Android : Java using maven
     * :computer: Microsoft : C# and C++
