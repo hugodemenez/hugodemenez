@@ -1,16 +1,15 @@
 name: Metrics
-on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
-workflow_dispatch:
+on: 
+  workflow_dispatch:
     inputs:
       logLevel:
         description: 'Log level'     
         required: true
         default: 'warning'
       tags:
-        description: 'Test scenario tags'
+        description: 'Test scenario tags'  
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
