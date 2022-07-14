@@ -28,7 +28,7 @@
 <img src='https://github-readme-stats.vercel.app/api?username=hugodemenez&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f1f1&hide=["stars"]&count_private=true' width600px/>
 </center>
 
-![Metrics](/wakatime.svg)
+![Metrics](/metrics.plugin.wakatime.svg)
 
 ## Contact
 
