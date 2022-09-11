@@ -33,12 +33,12 @@
 
 ```text
 💬 Programming Languages: 
-XML                      2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 10/09/2022 01:15:50 UTC
+ Last Updated on 11/09/2022 01:15:43 UTC
 <!--END_SECTION:waka-->
 
 ## Contact
