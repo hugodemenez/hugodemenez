@@ -29,16 +29,8 @@
 </p>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-XML                      0 secs              █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 13/09/2022 01:15:30 UTC
+ Last Updated on 14/09/2022 01:11:23 UTC
 <!--END_SECTION:waka-->
 
 ## Contact
