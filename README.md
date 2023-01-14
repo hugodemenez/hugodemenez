@@ -33,13 +33,12 @@
 
 ```text
 💬 Programming Languages: 
-Other                    0 secs              █████████████████░░░░░░░░   69.35% 
-JSON                     0 secs              ███████░░░░░░░░░░░░░░░░░░   30.65%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 13/01/2023 00:56:29 UTC
+ Last Updated on 14/01/2023 00:52:17 UTC
 <!--END_SECTION:waka-->
 
 ## Contact
