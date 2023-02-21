@@ -46,8 +46,8 @@ Python                   14 mins             ███████████�
 <p align=center >
 <a href="https://www.linkedin.com/in/hugo-demenez/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin.png">
-  <img height="200px" width="200px" alt="Linkedin link" src="assets/linkedin_light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin_light.png">
+  <img height="200px" width="200px" alt="Linkedin link" src="assets/linkedin.png">
 </picture>
 </a>
 </p>
