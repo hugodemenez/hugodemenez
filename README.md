@@ -44,5 +44,12 @@ Python                   14 mins             ███████████�
 ## Contact
 
 <p align=center >
-<a href="https://www.linkedin.com/in/hugo-demenez/"><img src="assets/linkedin.svg" alt="Linkedin_hugodemenez" height="200px" width="200px"/></a>
+<a href="https://www.linkedin.com/in/hugo-demenez/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" height="200px" width="200px" srcset="assets/linkedin.svg">
+  <img height="200px" width="200px"alt="Cover image" src="assets/linkedin_white.svg">
+</picture>
+</a>
 </p>
+
+
