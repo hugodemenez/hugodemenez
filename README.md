@@ -3,7 +3,7 @@
 
 ## Who am I ?
 
-:man_student: Studying quantitative and corporate finance alongside informatics. I expect to graduate with an engineering degree in the end of 2023
+:man_student: Studying quantitative and corporate finance alongside informatics. I expect to graduate with an engineering degree at the end of 2023
 
 *  I mainly work on algorithms developped with **python**, but I am also enthousiast about :
     * :man_technologist: WEB : HTML+CSS, JavaScript
