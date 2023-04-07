@@ -1,26 +1,32 @@
 # Welcome <img src="assets/hello.gif" width="30px"/>
 
-
 ## Who am I ?
 
-:man_student: Studying quantitative and corporate finance alongside informatics. I expect to graduate with an engineering degree at the end of 2023
+:man_student: Studying quantitative and corporate finance alongside informatics. I expect to graduate with an engineering and a master degree at the end of 2023. Also taking course with Harvard Business School Online to earn knoledges in Design thinking and Entrepreneurship essentials.
 
-*  I mainly work on algorithms developped with **python**, but I am also enthousiast about :
-    * :man_technologist: WEB : HTML+CSS, JavaScript
-    * :iphone: Android : Java using maven
-    * :computer: Microsoft : C# and C++
+* I mainly work on algorithms developped with **python** especially for machine learning, api and data analysis.
+
+### Also coding with
+
+* :man_technologist: WEB : Pure HTML, CSS and JavaScript but also React with NextJS
+* :iphone: Applications : Android (Java using Maven)
+* :computer: Microsoft : C# and C++
+
+### Learning
+
+* Rust, solidity
 
 ## My current activity
 
 * :rocket: Deploying trading automation on DEX
 
-* :chart: Developping a mathematical analysis method to predict market with machine learning tools and learning about Neural Networks analysis.
+* :chart: Developping a mathematical analysis method to predict market trends with machine learning tools and learning about Neural Networks analysis.
 
-## Old activity
+## Active repositories
 
-| Useful one | Best practice|
+| | |
 | ------------- | ------------- |
-| [![](assets/BrokerAPI.png)](https://github.com/hugodemenez/Python_Brokers_API)  | [![](assets/PatternRecognitionStrategy.png)](https://github.com/FinancialForecastingProject/PatternRecognitionStrategy.git)  |
+| [![Broker SDK](assets/BrokerAPI.png)](https://github.com/hugodemenez/Python_Brokers_API)  | [![Quantitative Prediction](assets/PatternRecognitionStrategy.png)](https://github.com/FinancialForecastingProject/PatternRecognitionStrategy.git)  |
 
 ## My Stats
 
@@ -67,5 +73,3 @@ XML                      4 mins              ░░░░░░░░░░░�
 </picture>
 </a>
 </p>
-
-
