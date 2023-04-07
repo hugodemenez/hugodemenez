@@ -35,9 +35,9 @@ I mainly work on algorithms developped with **python** especially for :
 
 ## Active repositories
 
-| | |
+|[![Python Trading Algorithm](assets/base_python_architecture.png)](https://github.com/SteinPrograms/base-python-architecture)|[![Quantitative Prediction](assets/pattern_recognition_strategy.png)](https://github.com/FinancialForecastingProject/PatternRecognitionStrategy.git)|
 | ------------- | ------------- |
-| [![Broker SDK](assets/BrokerAPI.png)](https://github.com/hugodemenez/Python_Brokers_API)  | [![Quantitative Prediction](assets/PatternRecognitionStrategy.png)](https://github.com/FinancialForecastingProject/PatternRecognitionStrategy.git)  |
+|[![Broker SDK](assets/python_brokers_api.png)](https://github.com/hugodemenez/Python_Brokers_API)||
 
 ## My Stats
 
