@@ -2,9 +2,20 @@
 
 ## Who am I ?
 
-:man_student: Studying quantitative and corporate finance alongside informatics. I expect to graduate with an engineering and a master degree at the end of 2023. Also taking course with Harvard Business School Online to earn knoledges in Design thinking and Entrepreneurship essentials.
+:man_student: Studying quantitative and corporate finance alongside informatics.
+I expect to graduate with an engineering and a master degree at the end of 2023.
+Also taking course with Harvard Business School Online :
 
-* I mainly work on algorithms developped with **python** especially for machine learning, api and data analysis.
+* Design thinking
+* Entrepreneurship essentials.
+
+## Computer Science
+
+I mainly work on algorithms developped with **python** especially for :
+
+* Machine Learning
+* API
+* Data Analytics
 
 ### Also coding with
 
