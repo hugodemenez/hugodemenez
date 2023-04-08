@@ -4,7 +4,7 @@
 
 :man_student: Studying quantitative and corporate finance alongside informatics.
 I expect to graduate with an engineering and a master degree at the end of 2023.
-Also taking course with Harvard Business School Online :
+Also taking courses with Harvard Business School Online :
 
 * Design thinking
 * Entrepreneurship essentials.
