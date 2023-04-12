@@ -2,7 +2,7 @@
 
 ## Who am I ?
 
-:man_student: Studying quantitative and corporate finance alongside informatics.
+:man_student: Studying quantitative and corporate finance alongside computer science.
 I expect to graduate with an engineering and a master degree at the end of 2023.
 Also taking courses with Harvard Business School Online :
 
