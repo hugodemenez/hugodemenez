@@ -2,12 +2,17 @@
 
 ## Who am I ?
 
-:man_student: Studying quantitative and corporate finance alongside computer science.
-I expect to graduate with an engineering and a master degree at the end of 2023.
-Also taking courses with Harvard Business School Online :
+Born in early 2000, I have always been keen on computers and internet.
+Through my teenage, I fell in love with industrial design.
 
-* Design thinking
-* Entrepreneurship essentials.
+Today, I want to combine both with a new product on the field : a reactive dry-aging appliance
+
+As an hobby, I enjoy building trading algorithm and finding new ways of anticipating market movements
+
+:man_student: After 5 years studying quantitative and corporate finance alongside computer science, I graduted with :
+* Finance and computer science engineering degree
+* Master in quantitative finance degree
+* Design thinking and innovation certificate
 
 ## Computer Science
 
@@ -27,10 +32,9 @@ I mainly work on algorithms developped with **python** especially for :
 
 * Rust, solidity
 
-## My current activity
+## My main activities
 
-* :rocket: Deploying trading automation on DEX
-
+* :rocket: 3D Modelling a reactive dry aging appliance, and learning about industrial design
 * :chart: Developping a mathematical analysis method to predict market trends with machine learning tools and learning about Neural Networks analysis.
 
 ## Active repositories
