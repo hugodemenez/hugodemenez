@@ -10,9 +10,9 @@ Today, I want to combine both with a new product on the field : a reactive dry-a
 As an hobby, I enjoy building trading algorithm and finding new ways of anticipating market movements
 
 :man_student: After 5 years studying quantitative and corporate finance alongside computer science, I graduted with :
-* Finance and computer science engineering degree
-* Master in quantitative finance degree
-* Design thinking and innovation certificate
+* Finance and computer science engineering degree - from Insitut Supérieur d'Electronique et du Numérique de Lille
+* Master in quantitative finance degree - from Université de Lille
+* Design thinking and innovation certificate - from Harvard Business School Online
 
 ## Computer Science
 
