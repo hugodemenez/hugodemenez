@@ -24,9 +24,7 @@ I mainly work on algorithms developped with **python** especially for :
 
 ### Also coding with
 
-* :man_technologist: WEB : Pure HTML, CSS and JavaScript but also React with NextJS
-* :iphone: Applications : Android (Java using Maven)
-* :computer: Microsoft : C# and C++
+* :man_technologist: I enjoy coding in old fashion HTML, CSS and JavaScript but I use javascript frameworks like NextJS and Astro
 
 ### Learning
 
@@ -34,7 +32,7 @@ I mainly work on algorithms developped with **python** especially for :
 
 ## My main activities
 
-* :rocket: 3D Modelling a reactive dry aging appliance, and learning about industrial design
+* :rocket: 3D Modeling a reactive dry aging appliance, and learning about industrial design
 * :chart: Developping a mathematical analysis method to predict market trends with machine learning tools and learning about Neural Networks analysis.
 
 ## Active repositories
