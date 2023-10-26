@@ -8,7 +8,7 @@ Now, I'm excited to bring both of these interests together with a new invention:
 
 In my free time, I enjoy creating computer programs that help me predict changes in the stock market. It's like solving puzzles to understand how the market works and how it might change. These are the things that drive me and inspire me every day.
 
-:man_student: After 5 years studying quantitative and corporate finance alongside computer science, I graduted with :
+:man_student: After 5 years studying quantitative and corporate finance alongside computer science, I graduated with :
 * Finance and computer science engineering degree - ***from Insitut Supérieur d'Electronique et du Numérique de Lille***
 * Master in quantitative finance degree - ***from Université de Lille***
 * Design thinking and innovation certificate - ***from Harvard Business School Online***
