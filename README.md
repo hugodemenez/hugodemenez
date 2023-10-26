@@ -2,12 +2,11 @@
 
 ## Who am I ?
 
-Born in early 2000, I have always been keen on computers and internet.
-Through my teenage, I fell in love with industrial design.
+I was born in Germany in the early 2000s, and I've always had a strong interest in computers and the internet. As a teenager, I developed a deep love for industrial design.
 
-Today, I want to combine both with a new product on the field : a reactive dry-aging appliance
+Now, I'm excited to bring both of these interests together with a new invention: a special machine that makes meat taste even better by aging it in a unique way.
 
-As an hobby, I enjoy building trading algorithm and finding new ways of anticipating market movements
+In my free time, I enjoy creating computer programs that help me predict changes in the stock market. It's like solving puzzles to understand how the market works and how it might change. These are the things that drive me and inspire me every day.
 
 :man_student: After 5 years studying quantitative and corporate finance alongside computer science, I graduted with :
 * Finance and computer science engineering degree - ***from Insitut Supérieur d'Electronique et du Numérique de Lille***
