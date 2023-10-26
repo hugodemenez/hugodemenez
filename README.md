@@ -27,7 +27,9 @@ I mainly work on algorithms developped with **python** especially for :
 
 ### Learning
 
-* Rust, solidity
+* Rust
+* Solidity
+* Vim motions
 
 ## My main activities
 
