@@ -40,13 +40,9 @@ I mainly work on algorithms developped with **python** especially for :
 
 |[![Python Trading Algorithm](assets/base_python_architecture.png)](https://github.com/SteinPrograms/base-python-architecture)|[![Quantitative Prediction](assets/pattern_recognition_strategy.png)](https://github.com/FinancialForecastingProject/PatternRecognitionStrategy.git)|
 | ------------- | ------------- |
-|[![Broker SDK](assets/python_brokers_api.png)](https://github.com/hugodemenez/Python_Brokers_API)||
+|[![Broker SDK](assets/python_brokers_api.png)](https://github.com/hugodemenez/Python_Brokers_API)|[![NextJS Website](assets/steinprograms-website.png)](https://github.com/hugodemenez/steinprograms-website)|
 
 ## My Stats
-
-<p align=center>
-<img src="metrics.plugin.wakatime.svg" alt="Metrics">
-</p>
 
 <!--START_SECTION:waka-->
 📅 **I'm Most Productive on Tuesday** 
@@ -76,6 +72,10 @@ TypeScript               9 mins              █░░░░░░░░░░�
 
  Last Updated on 01/11/2023 13:35:38 UTC
 <!--END_SECTION:waka-->
+
+<p align=center>
+<img src="metrics.plugin.wakatime.svg" alt="Metrics">
+</p>
 
 ## Contact
 
