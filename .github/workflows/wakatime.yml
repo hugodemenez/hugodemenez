@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Daily metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
@@ -24,3 +24,19 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: False
           SHOW_SHORT_INFO: False
           SHOW_LOC_CHART: False
+  github-metrics:
+      name: Monthly metrics
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
+      steps:
+        - uses: lowlighter/metrics@latest
+          with:
+            filename: metrics.plugin.wakatime.svg
+            token: NOT_NEEDED
+            base: ""
+            plugin_wakatime: yes
+            plugin_wakatime_days: 30
+            plugin_wakatime_limit: 3
+            plugin_wakatime_sections: time, languages, os
+            plugin_wakatime_token: ${{ secrets.WAKATIME }}
