@@ -1,12 +1,13 @@
-# Welcome <img src="assets/hello.gif" width="30px"/>
+# Welcome 
 
 ## Who am I ?
 
-I was born in Germany in the early 2000s, and I've always had a strong interest in computers and the internet. As a teenager, I developed a deep love for industrial design.
+Hey there! 
+I'm an avid fan of both computers and the internet. 
+One of my favorite things to do is tinker around with computer programs to help me better understand how the world works, especially when it comes to the stock market.
+It's like solving puzzles and constantly learning new things!
 
-Now, I'm excited to bring both of these interests together with a new invention: a special machine that makes meat taste even better by aging it in a unique way.
-
-In my free time, I enjoy creating computer programs that help me predict changes in the stock market. It's like solving puzzles to understand how the market works and how it might change. These are the things that drive me and inspire me every day.
+With enthusiasm, I blend my love for technology with industrial design, creating a unique machine that amplifies meat's flavor through a captivating aging process.
 
 :man_student: After 5 years studying quantitative and corporate finance alongside computer science, I graduated with :
 * Finance and computer science engineering degree - ***from Institut Supérieur d'Electronique et du Numérique de Lille***
@@ -15,9 +16,9 @@ In my free time, I enjoy creating computer programs that help me predict changes
 
 ## Computer Science
 
-I mainly work on algorithms developped with **python** especially for :
+I mainly work on algorithms developped with **python** for :
 
-* Machine Learning
+* Machine Learning (Regression, decision
 * API
 * Data Analytics
 
@@ -73,17 +74,4 @@ Markdown                 1 min               ░░░░░░░░░░░�
  Last Updated on 07/11/2023 00:45:57 UTC
 <!--END_SECTION:waka-->
 
-<p align=center>
-<img src="metrics.plugin.wakatime.svg" alt="Metrics">
-</p>
-
-## Contact
-
-<p align=center >
-<a href="https://www.linkedin.com/in/hugo-demenez/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin_light.png">
-  <img height="200px" width="200px" alt="Linkedin link" src="assets/linkedin.png">
-</picture>
-</a>
-</p>
+![Coding metrics](metrics.plugin.wakatime.svg)
