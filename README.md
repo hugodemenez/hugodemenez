@@ -14,23 +14,24 @@ With enthusiasm, I blend my love for technology with industrial design, creating
 * Master in quantitative finance degree - ***from Université de Lille***
 * Design thinking and innovation certificate - ***from Harvard Business School Online***
 
-## Computer Science
+## My coding experience
 
-I mainly work on algorithms developped with **python** for :
+### Extensive use of `python` 
 
-* Machine Learning (Regression, decision
-* API
+* Machine Learning (Regression, decision tree and classification)
+* API (using [FastAPI](https://fastapi.tiangolo.com),
+* Large Language Model (Prompt templating, `langchain`)
 * Data Analytics
 
-### Also coding with
+### Learning things
 
-* :man_technologist: I enjoy coding in old fashion HTML, CSS and JavaScript but I use javascript frameworks like NextJS and Astro
+* `Rust` to build blazingly fast softwares
+* `Solidity` conceiving automated contracts
 
-### Learning
+### Enjoying other stuff
 
-* Rust
-* Solidity
-* Vim motions
+* coding in good vanilla `HTML`, `CSS` and `JavaScript` 
+* JavaScript frameworks like NextJS and Astro
 
 ## My main activities
 
