@@ -9,7 +9,7 @@ I'm captivated by the world of computer programs—it's like solving puzzles and
 Now, my focus has shifted to a secret workshop where I'm crafting extraordinary and affordable innovations. Picture a fusion of technology and design, culminating in a mysterious machine. Its mission? To transform the taste of meat through an enchanting aging process, promising a culinary adventure like no other.
 
 ## Main activities
- 
+
 ### Industrial product journey
 * 🚀 3D Modeling a reactive dry aging appliance and filing patent for an incredible dry-aging process
 
@@ -25,7 +25,7 @@ Now, my focus has shifted to a secret workshop where I'm crafting extraordinary 
 ### Extensive use of `python` 
 
 * Machine Learning (Regression, decision tree and classification)
-* API (using [FastAPI](https://fastapi.tiangolo.com)),
+* API (using [FastAPI](https://fastapi.tiangolo.com))
 * Large Language Model (Prompt templating, `langchain`)
 * Data Analytics
 
