@@ -1,25 +1,31 @@
 # Welcome 
 
-## Who am I ?
+## Who am I?
 
 Hey there! 
-I'm an avid fan of both computers and the internet. 
-One of my favorite things to do is tinker around with computer programs to help me better understand how the world works, especially when it comes to the stock market.
-It's like solving puzzles and constantly learning new things!
 
-With enthusiasm, I blend my love for technology with industrial design, creating a unique machine that amplifies meat's flavor through a captivating aging process.
+I'm captivated by the world of computer programs—it's like solving puzzles and uncovering new knowledge, especially in the mysterious realm of the stock market.
 
-:man_student: After 5 years studying quantitative and corporate finance alongside computer science, I graduated with :
-* Finance and computer science engineering degree - ***from Institut Supérieur d'Electronique et du Numérique de Lille***
-* Master in quantitative finance degree - ***from Université de Lille***
-* Design thinking and innovation certificate - ***from Harvard Business School Online***
+Now, my focus has shifted to a secret workshop where I'm crafting extraordinary and affordable innovations. Picture a fusion of technology and design, culminating in a mysterious machine. Its mission? To transform the taste of meat through an enchanting aging process, promising a culinary adventure like no other.
+
+## Main activities
+ 
+### Industrial product journey
+* 🚀 3D Modeling a reactive dry aging appliance and filing patent for an incredible dry-aging process
+
+> Dive into budget-friendly gourmet at home with the help of machine learning and computer vision. Enjoy the extraordinary flavors of dry-aged meat, cheese, wine, and sausages—all effortlessly tailored by the appliance.
+
+### Finance and investing project
+* 📊 Developping a mathematical analysis method to predict market trends with machine learning tools
+
+> I'm using my studies to create tools that make investing safer and more profitable. These tools automatically adjust strategies based on market sentiment, providing a reliable way to navigate and succeed in the ever-changing market landscape.
 
 ## My coding experience
 
 ### Extensive use of `python` 
 
 * Machine Learning (Regression, decision tree and classification)
-* API (using [FastAPI](https://fastapi.tiangolo.com),
+* API (using [FastAPI](https://fastapi.tiangolo.com)),
 * Large Language Model (Prompt templating, `langchain`)
 * Data Analytics
 
@@ -32,11 +38,6 @@ With enthusiasm, I blend my love for technology with industrial design, creating
 
 * coding in good vanilla `HTML`, `CSS` and `JavaScript` 
 * JavaScript frameworks like NextJS and Astro
-
-## My main activities
-
-* :rocket: 3D Modeling a reactive dry aging appliance, and learning about industrial design
-* :chart: Developping a mathematical analysis method to predict market trends with machine learning tools and learning about Neural Networks analysis.
 
 ## Active repositories
 
