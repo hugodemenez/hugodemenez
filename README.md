@@ -4,9 +4,11 @@
 
 Hey there! 
 
-I'm captivated by the world of computer programs—it's like solving puzzles and uncovering new knowledge, especially in the mysterious realm of the stock market.
+My focus shifts between stock markets and a secret workshop where I'm crafting extraordinary and affordable innovations. 
 
-Now, my focus has shifted to a secret workshop where I'm crafting extraordinary and affordable innovations. Picture a fusion of technology and design, culminating in a mysterious machine. Its mission? To transform the taste of meat through an enchanting aging process, promising a culinary adventure like no other.
+I am building something that really drives me :
+Picture a fusion of technology and design, culminating in a mysterious machine. 
+Its mission? To transform the taste of meat through an enchanting aging process, promising a culinary adventure like no other.
 
 ## Main activities
 
