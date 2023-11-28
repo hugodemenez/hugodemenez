@@ -1,5 +1,5 @@
 # Welcome 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11124908899&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ff9300&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11124908899&redirect=true)
 ## Who am I?
 
 Hey there! 
