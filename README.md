@@ -1,10 +1,10 @@
 # Welcome 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11124908899&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ff9300&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=11124908899&redirect=true)
 
 <picture>
   <source 
    media="(prefers-color-scheme: dark)" 
-   srcset="https://spotify-github-profile.vercel.app/api/view?uid=11124908899&cover_image=false&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=ff9300&bar_color_cover=true">
+   srcset="https://spotify-github-profile.vercel.app/api/view?uid=11124908899&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=ff9300&bar_color_cover=true"
+    style="background-color:white">
   <img href="https://spotify-github-profile.vercel.app/api/view?uid=11124908899&redirect=true" height="200px" width="200px" alt="Linkedin link" 
    src="https://spotify-github-profile.vercel.app/api/view?uid=11124908899&cover_image=false&theme=default&show_offline=true&background_color=ffffff&interchange=true&bar_color=ff9300&bar_color_cover=true">
 </picture>
