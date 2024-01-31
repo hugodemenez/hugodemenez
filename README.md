@@ -67,12 +67,11 @@ Sunday                   412 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-netrw                    1 min               ████████████████░░░░░░░░░   65.35 % 
-Lua                      0 secs              █████████░░░░░░░░░░░░░░░░   34.65 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/01/2024 00:44:57 UTC
+ Last Updated on 31/01/2024 00:45:04 UTC
 <!--END_SECTION:waka-->
 
 ![Coding metrics](metrics.plugin.wakatime.svg)
