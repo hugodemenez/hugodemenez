@@ -74,11 +74,13 @@ Sunday                   853 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               59 mins             ██████████████████████░░░   86.62 % 
+CSS                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Image (svg)              4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 ```
 
 
- Last Updated on 13/08/2024 00:56:56 UTC
+ Last Updated on 15/08/2024 00:53:48 UTC
 <!--END_SECTION:waka-->
 
 ![Coding metrics](metrics.plugin.wakatime.svg)
