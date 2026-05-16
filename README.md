@@ -9,8 +9,32 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
+📅 **I'm Most Productive on Saturday** 
 
- Last Updated on 15/05/2026 03:06:24 UTC
+```text
+Monday                   4231 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Tuesday                  5991 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Wednesday                5313 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Thursday                 4974 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Friday                   5892 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Saturday                 7146 commits        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Sunday                   4863 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    24 mins             █████████████░░░░░░░░░░░░   53.16 % 
+Dax                      10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+SQL                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+ Last Updated on 16/05/2026 02:57:21 UTC
 <!--END_SECTION:waka-->
 
 ![Coding metrics](metrics.plugin.wakatime.svg)
