@@ -9,18 +9,18 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2023%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   12919 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Tuesday                  16941 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Wednesday                14561 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Thursday                 13377 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Friday                   17603 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Saturday                 24780 commits       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Sunday                   15154 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Monday                   12942 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Tuesday                  16957 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Wednesday                14582 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Thursday                 13403 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Friday                   17621 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Saturday                 24826 commits       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+Sunday                   15170 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 ```
 
 
@@ -28,41 +28,41 @@ Sunday                   15154 commits       ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   31.61 % 
-Markdown                 2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Python                   2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-YAML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-JavaScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+TypeScript               3 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Python                   2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Markdown                 2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+YAML                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 50 mins (96.19%)
+⏱ AI Coding Time: 11 hrs 59 mins (95.27%)
 
-✍️ 6,927 lines written by AI, 2 lines written by hand (99.97% AI-written)
+✍️ 6,045 lines written by AI, 21 lines written by hand (99.65% AI-written)
 
-🔤 208,066,854 Input Tokens, 574,592 Output Tokens
+🔤 126,188,959 Input Tokens, 395,496 Output Tokens
 
-💵 $935.18 Estimated AI Cost This Week
+💵 $512.13 Estimated AI Cost This Week
 
-🧠 72 AI Sessions, 220 AI Prompts
+🧠 70 AI Sessions, 196 AI Prompts
 
-Composer                 2,511 lines         ████████░░░░░░░░░░░░░░░░░   32.37 % 
-Opus                     2,029 lines         ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-Grok                     1,391 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-GPT                      1,161 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Cursor                   665 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Composer                 2,511 lines         ███████████░░░░░░░░░░░░░░   42.95 % 
+Grok                     1,391 lines         ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+GPT                      954 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Cursor                   665 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Opus                     326 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 4,270 characters per prompt
+🤖 AI-Driven — 99.65% of written lines came from AI
+📚 Verbose Prompter — average 3,201 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.34% of changed lines were hand-edited
+🚀 High AI Trust — 0.74% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/08/2026 02:50:48 UTC
+ Last Updated on 04/08/2026 02:42:23 UTC
 <!--END_SECTION:waka-->
 
 ![Coding metrics](metrics.plugin.wakatime.svg)
