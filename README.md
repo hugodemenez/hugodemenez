@@ -9,18 +9,18 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%205%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   15941 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Tuesday                  20752 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Wednesday                17842 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Thursday                 16331 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Friday                   21697 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Saturday                 30753 commits       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Sunday                   18739 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Monday                   4743 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Tuesday                  6315 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Wednesday                5533 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Thursday                 5169 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Friday                   6343 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Saturday                 8654 commits        █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Sunday                   5308 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
 ```
 
 
@@ -28,40 +28,39 @@ Sunday                   18739 commits       ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 19 mins       ████████████░░░░░░░░░░░░░   48.17 % 
-Markdown                 4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
-CSS                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Diff                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               1 hr 43 mins        ███████████████░░░░░░░░░░   61.61 % 
+Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+CSS                      26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 56 mins (99.07%)
+⏱ AI Coding Time: 2 hrs 43 mins (97.27%)
 
-✍️ 3,755 lines written by AI, 19 lines written by hand (99.5% AI-written)
+✍️ 922 lines written by AI, 19 lines written by hand (97.98% AI-written)
 
-🔤 308,843,070 Input Tokens, 789,558 Output Tokens
+🔤 78,870,529 Input Tokens, 257,229 Output Tokens
 
-💵 $748.73 Estimated AI Cost This Week
+💵 $350.57 Estimated AI Cost This Week
 
-🧠 131 AI Sessions, 369 AI Prompts
+🧠 19 AI Sessions, 45 AI Prompts
 
-GPT                      1,900 lines         ██████████████░░░░░░░░░░░   54.54 % 
-Opus                     1,099 lines         ████████░░░░░░░░░░░░░░░░░   31.54 % 
-Grok                     485 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Opus                     564 lines           █████████████████████████   99.82 % 
+GPT                      1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.5% of written lines came from AI
-📚 Verbose Prompter — average 13,137 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.52% of changed lines were hand-edited
+🤖 AI-Driven — 97.98% of written lines came from AI
+📚 Verbose Prompter — average 7,467 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 1.7% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/08/2026 01:53:39 UTC
+ Last Updated on 10/08/2026 01:47:08 UTC
 <!--END_SECTION:waka-->
 
 ![Coding metrics](metrics.plugin.wakatime.svg)
