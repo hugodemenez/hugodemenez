@@ -9,18 +9,18 @@
 ## My Stats
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%2039%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   5445 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Tuesday                  7202 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Wednesday                6295 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Thursday                 5852 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Friday                   7297 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Saturday                 10059 commits       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Sunday                   6144 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Monday                   17272 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Tuesday                  22317 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Wednesday                19969 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Thursday                 17725 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Friday                   23555 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Saturday                 34407 commits       ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Sunday                   20144 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
 ```
 
 
@@ -28,39 +28,41 @@ Sunday                   6144 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-JavaScript               2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-Markdown                 2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-CSS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Swift                    2 hrs 24 mins       ██████████████░░░░░░░░░░░   54.49 % 
+Markdown                 37 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Image (png)              35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 47 mins (99.73%)
+⏱ AI Coding Time: 4 hrs 24 mins (100.0%)
 
-✍️ 10,278 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,138 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 340,846,422 Input Tokens, 1,018,394 Output Tokens
+🔤 592,015 Input Tokens, 171,863 Output Tokens
 
-💵 $1483.10 Estimated AI Cost This Week
+💵 $22.72 Estimated AI Cost This Week
 
-🧠 66 AI Sessions, 206 AI Prompts
+🧠 49 AI Sessions, 82 AI Prompts
 
-GPT                      7,752 lines         ███████████████████░░░░░░   75.38 % 
-Opus                     2,532 lines         ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Grok                     3,290 lines         ██████████████░░░░░░░░░░░   57.72 % 
+Cursor                   1,444 lines         ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+GPT                      741 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Codex-Vscode             175 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Sonnet                   50 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 12,199 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 9,133 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 01:45:08 UTC
+ Last Updated on 31/08/2026 03:38:59 UTC
 <!--END_SECTION:waka-->
 
 ![Coding metrics](metrics.plugin.wakatime.svg)
