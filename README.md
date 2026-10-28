@@ -15,10 +15,10 @@
 
 ```text
 Monday                   29027 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Tuesday                  37011 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Wednesday                33404 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Tuesday                  37012 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Wednesday                33405 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 Thursday                 29372 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Friday                   39549 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Friday                   39551 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
 Saturday                 57641 commits       ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
 Sunday                   34394 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
 ```
@@ -28,37 +28,37 @@ Sunday                   34394 commits       ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 50 mins       █████████████████░░░░░░░░   68.62 % 
-Python                   1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-JavaScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Other                    1 hr 51 mins        ███████████████░░░░░░░░░░   61.36 % 
+Python                   34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Markdown                 30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 3 mins (99.92%)
+⏱ AI Coding Time: 2 hrs 53 mins (99.81%)
 
-✍️ 1,551 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 804 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,615,673 Input Tokens, 265,404 Output Tokens
+🔤 954,248 Input Tokens, 128,087 Output Tokens
 
-💵 $21.38 Estimated AI Cost This Week
+💵 $6.57 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 54 AI Prompts
+🧠 15 AI Sessions, 27 AI Prompts
 
-GPT                      1,571 lines         █████████████████████████   100.00 % 
+GPT                      812 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 250 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 270 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 05:39:07 UTC
+ Last Updated on 28/10/2026 05:50:31 UTC
 <!--END_SECTION:waka-->
 
 ![Coding metrics](metrics.plugin.wakatime.svg)
