@@ -14,13 +14,13 @@
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   29027 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Tuesday                  37012 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Wednesday                33405 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Thursday                 29372 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Friday                   39551 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Saturday                 57641 commits       ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-Sunday                   34394 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Monday                   29040 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Tuesday                  37018 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Wednesday                33413 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Thursday                 29382 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Friday                   39567 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Saturday                 57650 commits       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+Sunday                   34417 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
 ```
 
 
@@ -28,37 +28,37 @@ Sunday                   34394 commits       ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 27 mins       ████████████████░░░░░░░░░   63.80 % 
-Python                   1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-AppleScript              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Other                    2 hrs 40 mins       ███████████████████░░░░░░   76.42 % 
+AppleScript              21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Python                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 25 mins (99.9%)
+⏱ AI Coding Time: 3 hrs 29 mins (99.84%)
 
-✍️ 1,259 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 580 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,722,040 Input Tokens, 193,866 Output Tokens
+🔤 940,193 Input Tokens, 89,250 Output Tokens
 
-💵 $10.20 Estimated AI Cost This Week
+💵 $5.55 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 48 AI Prompts
+🧠 20 AI Sessions, 35 AI Prompts
 
-GPT                      1,259 lines         █████████████████████████   100.00 % 
+GPT                      580 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 305 characters per prompt
+📝 Concise Prompter — average 244 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/10/2026 06:21:20 UTC
+ Last Updated on 30/10/2026 06:18:35 UTC
 <!--END_SECTION:waka-->
 
 ![Coding metrics](metrics.plugin.wakatime.svg)
